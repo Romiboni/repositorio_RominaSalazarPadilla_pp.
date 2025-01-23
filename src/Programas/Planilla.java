@@ -26,7 +26,6 @@ public class Planilla {
      System.out.println("Sueldo bruto: "+sb);
      System.out.println("Descuento: "+d);
      System.out.println("Sueldo neto: "+sn); 
-     System.out.println("Paho horas extra: "+phe);
-     
+     System.out.println("Pago horas extra: "+phe);
  }//Fin del método   
 }//Fin del programa  
